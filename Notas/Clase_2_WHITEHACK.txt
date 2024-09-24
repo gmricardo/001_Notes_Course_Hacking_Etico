@@ -1,0 +1,11 @@
+Herramientas:
+
+dirbuster -> Escaneo de archivos automaticos
+wpscan -> escanear sitios wordpress
+msfconsole -> Entorno de metasploit
+searchsploit -> Busca exploits
+
+john -> permite crakear contraseñas que no estan en plano linux
+
+Palabra del día:
+PROFTP

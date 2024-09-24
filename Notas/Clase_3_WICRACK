@@ -1,0 +1,19 @@
+Herramientas:
+Hashcat -> para crakear contraseñas con la GPU tarjeta grafica
+aircrack
+wireshark
+cap2hashcat -> convierte .cap a archivos entendibles por hashcat
+
+Comandos:
+lsusb -> listar usb
+iwconfig -> Listar las tarjetas wireles
+airmon-ng start wlan0 -> Modificar la tarjeta de managment a modo monitor
+airodump -> permite capturar el trafico de la red
+
+
+
+Certificaciones:
+certiprof
+
+Palabra clave:
+Guitarra05
